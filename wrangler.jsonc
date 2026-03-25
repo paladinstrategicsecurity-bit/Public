@@ -1,0 +1,8 @@
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "paladin",
+  "compatibility_date": "2026-03-25",
+  "assets": {
+    "directory": "./public"
+  }
+}
